@@ -34,3 +34,4 @@ C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\Tubes-API\obj\
 C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\Tubes-API\obj\Debug\net8.0\Tubes-API.pdb
 C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\Tubes-API\obj\Debug\net8.0\Tubes-API.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\Tubes-API\obj\Debug\net8.0\ref\Tubes-API.dll
+C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\Tubes-API\obj\Debug\net8.0\Tubes-API.sourcelink.json

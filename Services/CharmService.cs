@@ -6,7 +6,7 @@ namespace Tubes_API.Services;
 
 public class CharmService
 {
-    private readonly string _filePath = "C:\\Users\\ASUS\\OneDrive\\Documents\\Rafa Mufid\\Kuliah\\Semester 4\\KPL\\Tubes-API\\bin\\Debug\\net8.0\\charm.json";
+    private readonly string _filePath = "C:\\Users\\ASUS\\OneDrive\\Documents\\Rafa Mufid\\Kuliah\\Semester 4\\KPL\\Tubes-API\\bin\\Debug\\net8.0\\charms.json";
 
     private static List<Charm> charmList = new List<Charm>();
 
@@ -49,7 +49,9 @@ public class CharmService
     {
         var existingCharm = GetById(updatedCharm.id);
         if (existingCharm == null)
+        {
             return false;
+        }
 
         existingCharm.id = updatedCharm.id;
         existingCharm.name = updatedCharm.name;

@@ -62,7 +62,9 @@ public class MonsterService
     {
         var existingMonster = GetById(updatedMonster.id);
         if (existingMonster == null)
+        {
             return false;
+        }
 
         existingMonster.id = updatedMonster.id;
         existingMonster.name = updatedMonster.name;

@@ -2,6 +2,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddSingleton<Tubes_API.Services.MonsterService>();
+builder.Services.AddSingleton<Tubes_API.Services.WeaponService>();
+builder.Services.AddSingleton<Tubes_API.Services.CharmService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

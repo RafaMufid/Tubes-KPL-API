@@ -63,7 +63,9 @@ public class WeaponService
     {
         var existingWeapon = GetById(updatedWeapon.id);
         if (existingWeapon == null)
+        {
             return false;
+        }
 
         existingWeapon.id = updatedWeapon.id;
         existingWeapon.name = updatedWeapon.name;
