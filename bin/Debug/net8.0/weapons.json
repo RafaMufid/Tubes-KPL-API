@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Slash Sword",
+    "type": "Slash",
+    "price": 100,
+    "baseDamage": 30
+  },
+  {
+    "name": "Excalibur",
+    "type": "Slash",
+    "price": 300,
+    "baseDamage": 100
+  },
+  {
+    "name": "Pierce Spear",
+    "type": "Pierce",
+    "price": 100,
+    "baseDamage": 30
+  },
+  {
+    "name": "Great Halberd",
+    "type": "Pierce",
+    "price": 300,
+    "baseDamage": 100
+  },
+  {
+    "name": "Strike Hammer",
+    "type": "Strike",
+    "price": 100,
+    "baseDamage": 30
+  },
+  {
+    "name": "Thor Hammer",
+    "type": "Strike",
+    "price": 300,
+    "baseDamage": 100
+  },
+  {
+    "name": "Magic Orb",
+    "type": "Magic",
+    "price": 200,
+    "baseDamage": 50
+  },
+  {
+    "name": "Holy Staff",
+    "type": "Magic",
+    "price": 500,
+    "baseDamage": 200
+  }
+]

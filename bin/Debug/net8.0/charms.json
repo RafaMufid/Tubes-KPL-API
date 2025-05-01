@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Power Stone",
+    "price": 70,
+    "effect": "+5 Attack"
+  },
+  {
+    "name": "Beast Heart",
+    "price": 120,
+    "effect": "+10 Attack"
+  },
+  {
+    "name": "Almighty Ring",
+    "price": 300,
+    "effect": "+20 Attack"
+  },
+  {
+    "name": "Healing Necklace",
+    "price": 70,
+    "effect": "+10 Heal"
+  },
+  {
+    "name": "Holy Feather",
+    "price": 70,
+    "effect": "+20 Heal"
+  },
+  {
+    "name": "Divine Chalice",
+    "price": 70,
+    "effect": "+30 Heal"
+  }
+]
