@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Documents\\Rafa Mufid\\Kuliah\\Semester 4\\KPL\\Tubes-API\\Tubes-API.csproj": {}
+    "C:\\Users\\Muhammad Zaky A\\source\\repos\\Tubes-KPL-API\\Tubes-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Documents\\Rafa Mufid\\Kuliah\\Semester 4\\KPL\\Tubes-API\\Tubes-API.csproj": {
+    "C:\\Users\\Muhammad Zaky A\\source\\repos\\Tubes-KPL-API\\Tubes-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Documents\\Rafa Mufid\\Kuliah\\Semester 4\\KPL\\Tubes-API\\Tubes-API.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammad Zaky A\\source\\repos\\Tubes-KPL-API\\Tubes-API.csproj",
         "projectName": "Tubes-API",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\Rafa Mufid\\Kuliah\\Semester 4\\KPL\\Tubes-API\\Tubes-API.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\Rafa Mufid\\Kuliah\\Semester 4\\KPL\\Tubes-API\\obj\\",
+        "projectPath": "C:\\Users\\Muhammad Zaky A\\source\\repos\\Tubes-KPL-API\\Tubes-API.csproj",
+        "packagesPath": "C:\\Users\\Muhammad Zaky A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muhammad Zaky A\\source\\repos\\Tubes-KPL-API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Muhammad Zaky A\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -52,7 +52,7 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[8.1.1, )"
             }
           },
           "imports": [
